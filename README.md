@@ -30,3 +30,7 @@ Componentes Animados: Los componentes como menu-bar.tsx y sparkles.tsx usan Fram
 
 > [!WARNING]
 > Desarrolado con ayuda de Mistral.
+
+
+![image](https://github.com/user-attachments/assets/d6da9aef-70f7-4223-baf8-694395115764)
+

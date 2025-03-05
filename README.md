@@ -1,4 +1,4 @@
-> .[!NOTE] Tecnologías Utilizadas
+> [!NOTE] Tecnologías Utilizadas
 
 Next.js: Framework React para aplicaciones web con renderizado híbrido.
 React: Biblioteca para construir interfaces de usuario.

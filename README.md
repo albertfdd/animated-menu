@@ -28,5 +28,5 @@ Personalización
 Tema y Estilos: El archivo globals.css y tailwind.config.ts permiten ajustar colores, transiciones y estilos globales.
 Componentes Animados: Los componentes como menu-bar.tsx y sparkles.tsx usan Framer Motion para crear efectos visuales dinámicos que pueden personalizarse modificando variantes y transiciones.
 
-> [!IMPORTANT]
+> [!WARNING]
 > Desarrolado con ayuda de Mistral.
